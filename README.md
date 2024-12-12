@@ -1,2 +1,4 @@
-# data-exploration-jupyter-notebooks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![GeoPandas](https://img.shields.io/badge/GeoPandas-008080?style=for-the-badge&logo=earth&logoColor=white) ![Polars](https://img.shields.io/badge/Polars-3B5998?style=for-the-badge&logo=databricks&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white) ![DuckDB](https://img.shields.io/badge/DuckDB-FFCA28?style=for-the-badge&logo=duckduckgo&logoColor=black)
+
+# Jupyter Exploration
 Exploration de données avec Python et des Jupyter notebooks pour faire de la visualisation.
